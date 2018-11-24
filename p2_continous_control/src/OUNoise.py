@@ -1,3 +1,7 @@
+"""
+References: https://github.com/udacity/deep-reinforcement-learning/blob/master/ddpg-bipedal/ddpg_agent.py
+"""
+
 import numpy as np
 import copy
 import random

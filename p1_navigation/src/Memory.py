@@ -1,3 +1,7 @@
+"""
+Reference: https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8
+"""
+
 import numpy as np 
 from collections import deque
         
